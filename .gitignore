@@ -1,0 +1,5 @@
+# Ignorar volúmenes de Docker
+mariadb-phpmyadmin/mariadb-data/
+
+# Ignorar otros archivos innecesarios
+*.log
